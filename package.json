@@ -1,0 +1,28 @@
+{
+  "name": "namasthe-react",
+  "version": "1.0.0",
+  "description": "This is Namasthe React by  Dhanush",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhanush9946/namasthe-react.git"
+  },
+  "keywords": [],
+  "author": "Dhanush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhanush9946/namasthe-react/issues"
+  },
+  "homepage": "https://github.com/dhanush9946/namasthe-react#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
